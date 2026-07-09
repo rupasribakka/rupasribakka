@@ -14,9 +14,9 @@
 
 <div align="center">
 
-### ✨ Code • Learn • Build • Secure ✨
+## ✨ 𝐂𝐨𝐝𝐞 • 𝐋𝐞𝐚𝐫𝐧 • 𝐁𝐮𝐢𝐥𝐝 • 𝐒𝐞𝐜𝐮𝐫𝐞 ✨
 
-> Passionate about MERN Stack Development, Cybersecurity, and creating meaningful digital experiences.
+❝ *Transforming ideas into impactful digital experiences.* ❞
 
 </div>
 
