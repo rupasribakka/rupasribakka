@@ -11,11 +11,11 @@
 ## 🚀 About Me
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&duration=2500&pause=1000&color=7C3AED&center=true&vCenter=true&width=800&lines=Code+•+Learn+•+Build+•+Secure" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=40&color=0:2563EB,50:7C3AED,100:A855F7&text=Code%20•%20Learn%20•%20Build%20•%20Secure&fontColor=ffffff&fontSize=20" />
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=24&duration=3500&pause=1200&color=60A5FA&center=true&vCenter=true&width=800&lines=Transforming+ideas+into+impactful+digital+experiences." />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Transforming+ideas+into+impactful+digital+experiences.;Building+secure+and+modern+web+applications.;Exploring+Cybersecurity+and+Cloud+Technologies.;Always+learning+something+new." />
 </p>
 
 I am passionate about **MERN Stack Development**, **Cybersecurity**, and creating **user-focused digital experiences**. My goal is to continuously improve my development skills while building impactful projects and exploring new technologies.
