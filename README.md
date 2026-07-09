@@ -10,9 +10,10 @@
 
 ## 🚀 About Me
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Transforming+ideas+into+impactful+digital+experiences." />
-</p>
+### Code • Learn • Build • Secure
+
+*Transforming ideas into impactful digital experiences.*
+
 I am passionate about **MERN Stack Development**, **Cybersecurity**, and creating **user-focused digital experiences**. My goal is to continuously improve my development skills while building impactful projects and exploring new technologies.
 
 🔭 Building projects that strengthen my Full Stack Development skills
@@ -26,7 +27,6 @@ I am passionate about **MERN Stack Development**, **Cybersecurity**, and creatin
 🤝 Open to collaboration, learning opportunities, and innovative projects
 
 ⚡ Fun fact: Curiosity is my favorite debugging tool.
-
 
 
 
