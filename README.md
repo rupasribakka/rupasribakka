@@ -8,16 +8,17 @@
 
 </div>
 
----
 ## 🚀 About Me
 
-<div align="center">
+<p align="center">
 
-### ✨ Code • Learn • Build • Secure ✨
+<img src="https://img.shields.io/badge/Code-Learn-Build-Secure-A855F7?style=for-the-badge" />
 
-*Turning ideas into real-world solutions through technology.*
+</p>
 
-</div>
+<p align="center">
+<i>Turning ideas into real-world solutions through technology.</i>
+</p>
 
 I am passionate about **MERN Stack Development**, **Cybersecurity**, and creating **user-focused digital experiences**. My goal is to continuously improve my development skills while building impactful projects and exploring new technologies.
 
@@ -32,6 +33,9 @@ I am passionate about **MERN Stack Development**, **Cybersecurity**, and creatin
 🤝 Open to collaboration, learning opportunities, and innovative projects
 
 ⚡ Fun fact: Curiosity is my favorite debugging tool.
+
+
+
 
 ## 🛠️ Tech Stack
 
