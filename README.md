@@ -106,8 +106,6 @@ Open_To:
 
 </p>
 
----
-
 <div align="center">
 
 ### 💜 Code • Learn • Build • Repeat 💜
