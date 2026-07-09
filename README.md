@@ -1,25 +1,24 @@
 <div align="center">
 
-<h1>
-  <span style="color:#8B5CF6;">Hello!</span>
-  <span style="color:#6366F1;"> I'm Rupa Sri 👋</span>
-</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,50:7C3AED,100:A855F7&text=Hello!%20I'm%20Rupa%20Sri&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 
-<h3>✨ Aspiring Full Stack Engineer 🚀 ✨</h3>
+### ✨ Aspiring Full Stack Engineer 🚀
 
-<img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=32&duration=1500&pause=400&color=8B5CF6&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Cybersecurity+Enthusiast;Building+Secure+Web+Applications;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=28&duration=1500&pause=400&color=A855F7&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer;Cybersecurity+Enthusiast;Building+Secure+Web+Applications;Always+Learning+Something+New" />
 
 </div>
 
-## 🚀 About Me
+---
+
+## 💫 About Me
 
 I'm a passionate **MERN Stack Developer** and **Cybersecurity Enthusiast** who enjoys building modern, secure, and scalable web applications.
 
 - 🌱 Currently learning React.js, Node.js, Express.js & MongoDB
 - 💻 Building Full Stack Web Applications
-- 🔐 Exploring Cybersecurity Concepts and Secure Development
+- 🔐 Exploring Cybersecurity and Secure Development Practices
 - 🚀 Interested in Software Engineering and Cloud Technologies
-- 🤝 Open to collaboration on Web Development projects
+- 🤝 Open to collaboration on web development projects
 - ⚡ Always learning, building, and improving
 
 ---
@@ -37,6 +36,7 @@ I'm a passionate **MERN Stack Developer** and **Cybersecurity Enthusiast** who e
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
@@ -52,6 +52,40 @@ I'm a passionate **MERN Stack Developer** and **Cybersecurity Enthusiast** who e
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```yaml
+Learning:
+  - MERN Stack Development
+  - AWS Cloud Fundamentals
+  - Cybersecurity Concepts
+
+Building:
+  - Full Stack Web Applications
+  - Personal Projects
+
+Exploring:
+  - Cloud Computing
+  - Open Source Contributions
+
+Open_To:
+  - Internship Opportunities
+  - Software Engineering Roles
+  - Technical Collaborations
+```
+
+---
+
 ## 🔗 Connect With Me
 
 <p align="center">
@@ -64,18 +98,12 @@ I'm a passionate **MERN Stack Developer** and **Cybersecurity Enthusiast** who e
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/rupasribakka">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
 </p>
 
 ---
 
 <div align="center">
 
-### 💜 Quote
-
-*"Code. Learn. Build. Repeat."*
+### 💜 Code • Learn • Build • Repeat 💜
 
 </div>
