@@ -10,18 +10,21 @@
 
 ---
 
-## 💫 About Me
+## 🚀 About Me
 
-I'm a passionate **MERN Stack Developer** and **Cybersecurity Enthusiast** who enjoys building modern, secure, and scalable web applications.
+MERN Stack Developer and Cybersecurity Enthusiast passionate about building modern web applications and exploring secure software development practices.
 
-- 🌱 Currently learning React.js, Node.js, Express.js & MongoDB
-- 💻 Building Full Stack Web Applications
-- 🔐 Exploring Cybersecurity and Secure Development Practices
-- 🚀 Interested in Software Engineering and Cloud Technologies
-- 🤝 Open to collaboration on web development projects
-- ⚡ Always learning, building, and improving
+🔭 Currently building projects to strengthen my Full Stack Development skills
 
----
+🌱 Learning React.js, Node.js, Express.js, MongoDB, and AWS Cloud Fundamentals
+
+🔐 Exploring Cybersecurity concepts, network security, and secure coding practices
+
+💡 Interested in Software Engineering, Cloud Technologies, and Open Source
+
+🤝 Open to collaboration on Web Development and Tech Projects
+
+⚡ Believer in continuous learning and consistent growth
 
 ## 🛠️ Tech Stack
 
