@@ -9,7 +9,6 @@
 </div>
 
 ## 🚀 About Me
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=A855F7&fontSize=28&height=50&text=Code%20•%20Learn%20•%20Build%20•%20Secure" />
