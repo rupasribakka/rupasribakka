@@ -10,13 +10,15 @@
 
 ## 🚀 About Me
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=2500&pause=1000&color=60A5FA&center=true&vCenter=true&width=650&lines=Code+•+Learn+•+Build+•+Secure" />
-</p>
+## 🚀 About Me
 
-<p align="center">
-  ✨ <b>Building today, learning always, improving every day.</b>
-</p>
+<div align="center">
+
+### ✨ Code • Learn • Build • Secure ✨
+
+> Passionate about MERN Stack Development, Cybersecurity, and creating meaningful digital experiences.
+
+</div>
 
 I am passionate about **MERN Stack Development**, **Cybersecurity**, and creating **user-focused digital experiences**. My goal is to continuously improve my development skills while building impactful projects and exploring new technologies.
 
