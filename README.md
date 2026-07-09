@@ -31,12 +31,10 @@ I'm a passionate **MERN Stack Developer** and **Cybersecurity Enthusiast** who e
 
 ---
 
-## 📊 GitHub Stats
+## 🔥 GitHub Streak
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rupasribakka&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupasribakka&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=rupasribakka&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
