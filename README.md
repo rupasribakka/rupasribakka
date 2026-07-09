@@ -1,51 +1,139 @@
-<h1 align="center">Hello! I'm Rupa Sri</h1>
+<div align="center">
 
-<h3 align="center">
-Aspiring Software Engineer
-</h3>
+# Hello! I'm Rupa Sri
 
-<br>
+### Aspiring Full Stack Engineer 🚀
 
-## 🚀 About Me
-
-Focused on building modern web applications and exploring cybersecurity concepts.
-
-- 🔭 I'm currently working on strengthening my MERN Stack development skills
-- 🌱 I'm currently learning React.js, Node.js, Express.js, and MongoDB
-- 👯 I'm looking to collaborate on Full Stack Web Development projects
-- 🔐 Interested in Cybersecurity and Secure Web Applications
-- 💬 Ask me about JavaScript, React, Node.js, and MongoDB
-- ⚡ Fun fact: I enjoy solving problems through code
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=MERN+Stack+Developer;Cybersecurity+Enthusiast;Building+Secure+and+Scalable+Applications;Passionate+About+Software+Engineering" />
 
 <br>
 
-## 🛠 Tech Stack
+![](https://img.shields.io/badge/B.Tech-Cybersecurity%20%26%20IoT-7C3AED?style=for-the-badge)
+![](https://img.shields.io/badge/MERN-Stack%20Developer-6366F1?style=for-the-badge)
+![](https://img.shields.io/badge/Cybersecurity-Enthusiast-A855F7?style=for-the-badge)
 
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/EXPRESS-000000?style=for-the-badge&logo=express&logoColor=white)
+![](https://img.shields.io/badge/Location-India-4F46E5?style=flat-square)
 
-![MongoDB](https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
 
-![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
 
-<br>
-
-## 🔗 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_LINK](https://www.linkedin.com/in/rupasri-bakka-524234325/))
-
-[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](ammulurupa674@gmail.com)
+<a href="https://github.com/rupasribakka">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
+</a>
 
 <br>
 
-<p align="center">
-Building Secure & Scalable Web Applications 🚀
+![](https://komarev.com/ghpvc/?username=rupasribakka&style=flat-square&color=7C3AED)
+![](https://img.shields.io/github/followers/rupasribakka?style=flat-square&color=7C3AED)
+
+</div>
+
+---
+
+# About Me
+
+Software Engineering enthusiast focused on building secure, scalable, and modern web applications.
+
+I am passionate about Full Stack Development, Cybersecurity, and creating user-focused digital experiences. My goal is to continuously improve my development skills while building impactful projects and exploring new technologies.
+
+### Currently
+
+- 🌱 Learning MERN Stack Development
+- 🔐 Exploring Cybersecurity Concepts
+- 💻 Building Full Stack Applications
+- 🚀 Improving Problem Solving Skills
+
+### Open To
+
+- Software Engineering Internships
+- MERN Stack Development Roles
+- Open Source Collaboration
+- Technical Learning Opportunities
+
+---
+
+# Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css" />
 </p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,javascript,bootstrap" />
+</p>
+
+### Backend & Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+</p>
+
+### Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,aws" />
+</p>
+
+---
+
+# GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rupasribakka&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupasribakka&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rupasribakka&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# Current Focus
+
+```yaml
+Learning:
+  - MERN Stack Development
+  - AWS Cloud Fundamentals
+  - Software Engineering Concepts
+
+Building:
+  - Full Stack Web Applications
+  - Personal Portfolio Projects
+
+Exploring:
+  - Cybersecurity
+  - Open Source Contributions
+
+Open_To:
+  - Internship Opportunities
+  - Technical Collaborations
+```
+
+---
+
+# Connect
+
+📧 ammulurupa674@gmail.com
+
+🔗 https://www.linkedin.com/in/[YOUR-LINKEDIN](https://www.linkedin.com/in/rupasri-bakka-524234325/)
+
+🔗 https://github.com/rupasribakka
+
+---
+
+<div align="center">
+
+### "Building secure and scalable web applications, one project at a time."
+
+</div>
