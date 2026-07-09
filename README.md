@@ -10,13 +10,8 @@
 
 ## 🚀 About Me
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=A855F7&fontSize=28&height=50&text=Code%20•%20Learn%20•%20Build%20•%20Secure" />
-
 ✨ *Transforming ideas into impactful digital experiences.* ✨
 
-</div>
 
 I am passionate about MERN Stack Development, Cybersecurity, and creating user-focused digital experiences. My goal is to continuously improve my development skills while building impactful projects and exploring new technologies.
 
