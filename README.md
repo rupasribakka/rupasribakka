@@ -1,14 +1,15 @@
 <div align="center">
 
-# Hello! I'm Rupa Sri 👋
+<h1>
+  <span style="color:#8B5CF6;">Hello!</span>
+  <span style="color:#6366F1;"> I'm Rupa Sri 👋</span>
+</h1>
 
-### Aspiring Full Stack Engineer 🚀
+<h3>✨ Aspiring Full Stack Engineer 🚀 ✨</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=30&duration=1800&pause=500&color=7E8CF8&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer;Cybersecurity+Enthusiast;Building+Secure+Web+Applications;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=32&duration=1500&pause=400&color=8B5CF6&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Cybersecurity+Enthusiast;Building+Secure+Web+Applications;Always+Learning+Something+New" />
 
 </div>
-
----
 
 ## 🚀 About Me
 
