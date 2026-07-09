@@ -17,10 +17,10 @@
 ✨ *Transforming ideas into impactful digital experiences.* ✨
 
 </div>
-I am passionate about MERN Stack Development, Cybersecurity, and creating user-focused digital experiences. My goal is to continuously improve my development skills while building impactful projects and exploring new technologies.
-<br>
 
-🔭 Building projects that strengthen my Full Stack Development skills
+I am passionate about MERN Stack Development, Cybersecurity, and creating user-focused digital experiences. My goal is to continuously improve my development skills while building impactful projects and exploring new technologies.
+
+
 
 🌱 Learning React.js, Node.js, Express.js, MongoDB, and AWS
 
@@ -53,7 +53,6 @@ I am passionate about MERN Stack Development, Cybersecurity, and creating user-f
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
----
 
 ## 📈 Contribution Graph
 
@@ -61,7 +60,6 @@ I am passionate about MERN Stack Development, Cybersecurity, and creating user-f
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rupasribakka&theme=tokyo-night&hide_border=true" />
 </p>
 
----
 
 ## 🐍 Contribution Snake
 
@@ -71,7 +69,6 @@ I am passionate about MERN Stack Development, Cybersecurity, and creating user-f
 
 </div>
 
----
 
 ## 🎯 Current Focus
 
@@ -94,8 +91,6 @@ Open_To:
   - Software Engineering Roles
   - Technical Collaborations
 ```
-
----
 
 ## 🔗 Connect With Me
 
