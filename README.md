@@ -11,11 +11,11 @@
 ## 🚀 About Me
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=2500&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Code+•+Learn+•+Build+•+Secure" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=2500&pause=1000&color=60A5FA&center=true&vCenter=true&width=650&lines=Code+•+Learn+•+Build+•+Secure" />
 </p>
 
 <p align="center">
-  <i>💡 Turning ideas into scalable solutions through code and creativity.</i>
+  ✨ <b>Building today, learning always, improving every day.</b>
 </p>
 
 I am passionate about **MERN Stack Development**, **Cybersecurity**, and creating **user-focused digital experiences**. My goal is to continuously improve my development skills while building impactful projects and exploring new technologies.
