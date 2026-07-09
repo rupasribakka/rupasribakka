@@ -10,9 +10,13 @@
 
 ## 🚀 About Me
 
-### Code • Learn • Build • Secure
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=50&color=0:2563EB,50:7C3AED,100:A855F7&text=Code%20•%20Learn%20•%20Build%20•%20Secure&fontColor=ffffff&fontSize=22"/>
+</p>
 
-*Transforming ideas into impactful digital experiences.*
+<p align="center">
+<i>Transforming ideas into impactful digital experiences.</i>
+</p>
 
 I am passionate about **MERN Stack Development**, **Cybersecurity**, and creating **user-focused digital experiences**. My goal is to continuously improve my development skills while building impactful projects and exploring new technologies.
 
