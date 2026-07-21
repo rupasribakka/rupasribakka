@@ -61,15 +61,6 @@ I am passionate about MERN Stack Development, Cybersecurity, and creating user-f
 </p>
 
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
-
 ## 🎯 Current Focus
 
 ```yaml
