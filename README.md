@@ -33,7 +33,6 @@ I am passionate about MERN Stack Development, Cybersecurity, and creating user-f
 ⚡ Fun fact: Curiosity is my favorite debugging tool.
 
 
-
 ## 🛠️ Tech Stack
 
 <p align="left">
@@ -53,13 +52,11 @@ I am passionate about MERN Stack Development, Cybersecurity, and creating user-f
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
-
 ## 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rupasribakka&theme=tokyo-night&hide_border=true" />
 </p>
-
 
 ## 🎯 Current Focus
 
